@@ -50,3 +50,8 @@ For comparison: In 2019 the same task can be performed with an ESP8266 and a LM3
 
 Combined that's 3.77 € or 7 percent of the price 6 years ago - 93% less!
 
+Of course the hardware is weaker, only 160 MHz (usually running on 80 MHz) with 80 kByte RAM and 1MByte flash. And the same 11n WiFi capabilities. It is still an overkill for this task, an Arduino Uno with 16 Mhz and 2 kByte of RAM could do it.
+
+And for comparison: A Raspberry Pi Zero W from 2017 for 17.31 € (450.000 VND) has 1 GHz with 512 MByte of RAM - and WiFi and Bluetooth as well. Doable for 18.16 € then.
+
+Another option: [Tanix TX3 Mini](https://www.lazada.vn/products/android-tivi-box-tx3-mini-ram-2gb-bo-nho-trong-16gb-bluetooth-android-9-bao-hanh-2-nam-i158019657-s169374849.html?spm=a2o4n.searchlist.list.13.6b6953f1NcMgKi&search=1) for 18.43 € (479.000 VND) with 2 GByte RAM, 16 GByte flash, 1.2 GHz Quadcore S905W Cortex-A53 and two USB ports, WiFi and enclosure and PSU included. Running with Ubuntu 16.04 LTS for more that a year for me (since 2018). Below 20 € and a complete overkill.
