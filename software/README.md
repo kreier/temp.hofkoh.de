@@ -35,6 +35,8 @@ On the website the data is stored in YYYYMMDD.log files in the /data folder. In 
 - history.html
 - history.js
 
+![example](../documentation/screenshot2014.jpg)
+
 ## Hardware
 
 The hardware costs in 2013 were
@@ -49,6 +51,8 @@ For comparison: In 2019 the same task can be performed with an ESP8266 and a LM3
 - 0.85 € [LM35DZ/NOPB sensor from TI](https://www.thegioiic.com/products/lm35dz-nopb-cam-bien-nhiet-do) (22000 VND)
 
 Combined that's 3.77 € or 7 percent of the price 6 years ago - 93% less!
+
+![ESP8266](../documentation/2020_esp8266.jpg)
 
 Of course the hardware is weaker, only 160 MHz (usually running on 80 MHz) with 80 kByte RAM and 1MByte flash. And the same 11n WiFi capabilities. It is still an overkill for this task, an Arduino Uno with 16 Mhz and 2 kByte of RAM could do it.
 
