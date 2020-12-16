@@ -10,6 +10,10 @@ It ran from 2013 to 2016 and collected data of lower Saxony.
 
 Detailed description in [software](software).
 
+## Documentation 2013
+
+I created a pdf document that documents all building and programming steps for this project. It can be found in the [documentation](https://github.com/kreier/temp.hofkoh.de/blob/main/documentation/info.pdf) folder.
+
 ## Update 2020
 
 The history function was finally made to work.
