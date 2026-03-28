@@ -2,6 +2,9 @@
 
 This project measures the outdoor temperature in Hofkoh. Results are published and visualized in the web.
 
+![GitHub License](https://img.shields.io/github/license/kreier/temp.hofkoh.de)
+![GitHub Release](https://img.shields.io/github/v/release/kreier/temp.hofkoh.de)
+
 ## 2013 - 2016
 
 It ran from 2013 to 2016 and collected data of lower Saxony.
