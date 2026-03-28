@@ -27,7 +27,7 @@ The history function was finally made to work.
 
 In 2020 it was updated to Ho Chi Minh City. And with an ESP8266 and LM35 the station costs only 3.77 € compared to 53.39 € for WR703N and DS18S20 with DS9490R OneWire USB adapter.
 
-## Hardware
+## Hardware documentation 2020
 
 In 2013:
 
@@ -41,3 +41,27 @@ In 2020:
 - LM35 ([LM35DZ/NOPB](https://icdayroi.com/lm35dz-nopb) for 20.000₫ = 0.87 USD)
 
 ![ESP8266](documentation/2020_esp8266.jpg)
+
+## Hardware comarison 2026
+
+I made a markdown table
+
+|              | TL-WR703N      | ESP8266        |
+|--------------|----------------|----------------|
+| CPU          | Atheros AR9331 | Tensilica L106 |
+| Architecture | MIPS 24Kc      | Xtensa         |
+| MHz          |            400 |            160 |
+| RAM          | 32 MB          | 160 KB         |
+| Flash        | 4 MB           | 4 MB           |
+| WLAN         | b/g/n          | b/g/n          |
+| Kernel       | 3.3.8          |                |
+| release      |     2012-08-21 |                |
+
+## Original Firmware
+
+This is from 2015, support ended a while ago: 
+
+- TP-Link - https://www.tp-link.com/us/support/download/tl-wr702n/#Firmware
+- OpenWRT - https://openwrt.org/toh/tp-link/tl-wr703n
+- https://oldwiki.archive.openwrt.org/toh/tp-link/tl-wr702n
+
